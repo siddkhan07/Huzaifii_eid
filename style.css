@@ -48,9 +48,9 @@ h1, h2 {
 h1 {
     font-size: 3.5rem;
     color: #d81b60;
-    background: linear-gradient(to right, #d81b60, #ff4081);
+    background: 
     background-clip: text;
-    -webkit-text-fill-color: transparent;
+    -webkit-text-fill-color:;
     margin-bottom: 30px;
 }
 
