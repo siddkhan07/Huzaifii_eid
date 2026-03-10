@@ -47,10 +47,7 @@ h1, h2 {
 
 h1 {
     font-size: 3.5rem;
-    color: #d81b60;
-    background: 
-    background-clip: text;
-    -webkit-text-fill-color:;
+    color: #d81B60;
     margin-bottom: 30px;
 }
 
