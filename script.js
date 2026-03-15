@@ -356,7 +356,7 @@ function typeMessage() {
         "I'm so grateful to have you in my life.",
         "May this year bring you all the joy you deserve.",
         "You deserve the world and more.",
-        "Eid Mubarak, my love! ❤"
+        "Eid Mubarak, Golu Molu,mela baccha 😚! ❤"
     ];
     
     const typingText = document.getElementById('typingText');
